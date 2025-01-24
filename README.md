@@ -13,3 +13,11 @@ Y los objetivos específicos son:
 Realizar el QC de algunas muestras secuenciadas, evaluar la calidad y realizar el filtrado de ser necesario. Con esto obtener un gráfico de la diversidad de patógenos y comparar con los gráficos obtenidos en el CZ-ID (esto con fines solo de comparacion).
 Obtener gráficas de reads totales para virus, bacterias y cada uno de los patógenos detectados usando librerías de Python.
 (Si da tiempo) Comparar las gráficas obtenidas en Python y CZ-ID para comparar con los datos de qPCR (tanto a nivel general como por muestra).
+
+
+Clona este repositorio:
+git clone https://github.com/AlitaTorrez/ALE_Finalproject_bioinf.git
+cd ALE_Finalproject_bioinf
+Crea y activa el entorno conda:
+conda env create -f ale_env_bioinfo.yml -n ale_env_bioinfo
+conda activate ale_env_bioinfo
