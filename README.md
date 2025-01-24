@@ -16,8 +16,13 @@ Obtener gráficas de reads totales para virus, bacterias y cada uno de los pató
 
 
 Clona este repositorio:
+
 git clone https://github.com/AlitaTorrez/ALE_Finalproject_bioinf.git
+
 cd ALE_Finalproject_bioinf
+
 Crea y activa el entorno conda:
+
 conda env create -f ale_env_bioinfo.yml -n ale_env_bioinfo
+
 conda activate ale_env_bioinfo
