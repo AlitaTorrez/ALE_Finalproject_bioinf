@@ -1,0 +1,11 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 39bd-b_S1_L001_R1_001	/home/alita555/ALE_Finalproject_bioinf/QC/fastqc_results/39bd-b_S1_L001_R1_001_fastqc.zip
+FastQC	all_sections	/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 14_S4_L001_R1_001	/home/alita555/ALE_Finalproject_bioinf/QC/fastqc_results/14_S4_L001_R1_001_fastqc.zip
+FastQC	all_sections	/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 39bd-b_S1_L001_R2_001	/home/alita555/ALE_Finalproject_bioinf/QC/fastqc_results/39bd-b_S1_L001_R2_001_fastqc.zip
+FastQC	all_sections	/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 59-b_S14_L001_R1_001	/home/alita555/ALE_Finalproject_bioinf/QC/fastqc_results/59-b_S14_L001_R1_001_fastqc.zip
+FastQC	all_sections	/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 14_S4_L001_R2_001	/home/alita555/ALE_Finalproject_bioinf/QC/fastqc_results/14_S4_L001_R2_001_fastqc.zip
+FastQC	all_sections	/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 42bd-b_S3_L001_R2_001	/home/alita555/ALE_Finalproject_bioinf/QC/fastqc_results/42bd-b_S3_L001_R2_001_fastqc.zip
+FastQC	all_sections	/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 32_S9_L001_R2_001	/home/alita555/ALE_Finalproject_bioinf/QC/fastqc_results/32_S9_L001_R2_001_fastqc.zip
+FastQC	all_sections	/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 42bd-b_S3_L001_R1_001	/home/alita555/ALE_Finalproject_bioinf/QC/fastqc_results/42bd-b_S3_L001_R1_001_fastqc.zip
+FastQC	all_sections	/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 59-b_S14_L001_R2_001	/home/alita555/ALE_Finalproject_bioinf/QC/fastqc_results/59-b_S14_L001_R2_001_fastqc.zip
+FastQC	all_sections	/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 32_S9_L001_R1_001	/home/alita555/ALE_Finalproject_bioinf/QC/fastqc_results/32_S9_L001_R1_001_fastqc.zip

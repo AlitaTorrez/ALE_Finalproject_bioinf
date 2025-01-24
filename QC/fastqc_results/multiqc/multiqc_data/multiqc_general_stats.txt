@@ -1,0 +1,11 @@
+Sample	fastqc-percent_duplicates	fastqc-percent_gc	fastqc-avg_sequence_length	fastqc-median_sequence_length	fastqc-percent_fails	fastqc-total_sequences
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 14_S4_L001_R1_001	72.90204455294477	33.0	146.0	146	27.27272727272727	0.150742
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 14_S4_L001_R2_001	74.84974326995794	32.0	146.0	146	36.36363636363637	0.150742
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 32_S9_L001_R1_001	79.63417608324526	40.0	146.0	146	45.45454545454545	0.18451499999999998
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 32_S9_L001_R2_001	78.70417039265101	41.0	146.0	146	45.45454545454545	0.18451499999999998
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 39bd-b_S1_L001_R1_001	70.53260558760701	56.0	146.0	146	45.45454545454545	0.237812
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 39bd-b_S1_L001_R2_001	68.99651825811986	58.0	146.0	146	45.45454545454545	0.237812
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 42bd-b_S3_L001_R1_001	80.69059168574088	41.0	146.0	146	45.45454545454545	0.428589
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 42bd-b_S3_L001_R2_001	81.13040698664688	41.0	146.0	146	54.54545454545454	0.428589
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 59-b_S14_L001_R1_001	67.69227702112248	43.0	146.0	146	45.45454545454545	0.300959
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 59-b_S14_L001_R2_001	68.54388803790549	43.0	146.0	146	45.45454545454545	0.300959

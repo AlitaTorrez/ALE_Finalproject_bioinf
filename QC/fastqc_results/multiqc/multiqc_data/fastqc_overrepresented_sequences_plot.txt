@@ -1,0 +1,11 @@
+Sample	Top overrepresented sequence	Sum of remaining overrepresented sequences
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 14_S4_L001_R1_001	0.39007045149991376	0.6441469530721364
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 14_S4_L001_R2_001	0.6209284738161892	0.7317137891231377
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 32_S9_L001_R1_001	3.5314202097390455	4.415359184890117
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 32_S9_L001_R2_001	6.155055144568192	1.8356231200715394
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 39bd-b_S1_L001_R1_001	6.747346643567187	7.7254301717322935
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 39bd-b_S1_L001_R2_001	11.606226767362454	3.031386136948514
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 42bd-b_S3_L001_R1_001	2.525029807111242	1.489072281369797
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 42bd-b_S3_L001_R2_001	4.9196316284365675	0.10219580997179101
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 59-b_S14_L001_R1_001	1.0632677540794593	2.408633734163125
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 59-b_S14_L001_R2_001	4.810954316036404	0.0

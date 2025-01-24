@@ -1,0 +1,8 @@
+tax_id,tax_level,genus_tax_id,name,common_name,category,is_phage,agg_score,max_z_score,nt_z_score,nt_rpm,nt_count,nt_contigs,nt_contig_r,nt_percent_identity,nt_alignment_length,nt_e_value,nt_bg_mean,nt_bg_stdev,nt_bg_mean_mass_normalized,nt_bg_stdev_mass_normalized,nr_z_score,nr_rpm,nr_count,nr_contigs,nr_contig_r,nr_percent_identity,nr_alignment_length,nr_e_value,nr_bg_mean,nr_bg_stdev,nr_bg_mean_mass_normalized,nr_bg_stdev_mass_normalized,species_tax_ids,known_pathogen
+10912,2,10912,Rotavirus,"",viruses,false,,,,793427.2300469483,676,13,661,98.797,1700.11,10^-302.667,,,,,,793427.2300469483,676,13,661,97.2099,554.878,10^-284.323,,,,,[28875],1
+28875,1,10912,Rotavirus A,"",viruses,false,,,,793427.2300469483,676,13,661,98.797,1700.11,10^-302.667,,,,,,793427.2300469483,676,13,661,97.2099,554.878,10^-284.323,,,,,,1
+286,2,286,Pseudomonas,"",bacteria,false,,,,2347.417840375587,2,,,89.726,146.0,10^-66.5128,,,,,,2347.417840375587,2,,,100.0,48.0,10^-23.1485,,,,,"[2815936, 2662193, 1788301, 296]",0
+2815936,1,286,Pseudomonas sp. PP3,"",bacteria,false,,,,,,,,,,,,,,,,1173.7089201877934,1,,,100.0,48.0,10^-21.8665,,,,,,0
+2662193,1,286,Pseudomonas sp. FSL R10-0071,"",bacteria,false,,,,,,,,,,,,,,,,1173.7089201877934,1,,,100.0,48.0,10^-24.4306,,,,,,0
+1788301,1,286,Pseudomonas versuta,"",bacteria,false,,,,1173.7089201877934,1,,,87.671,146.0,10^-62.3957,,,,,,,,,,,,,,,,,,0
+296,1,286,Pseudomonas fragi,"",bacteria,false,,,,1173.7089201877934,1,,,91.781,146.0,10^-70.6299,,,,,,,,,,,,,,,,,,0

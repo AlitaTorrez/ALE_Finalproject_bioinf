@@ -1,0 +1,11 @@
+Sample	Unique Reads	Duplicate Reads
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 14_S4_L001_R1_001	40848.0	109894.0
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 14_S4_L001_R2_001	37913.0	112829.0
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 32_S9_L001_R1_001	37578.0	146937.0
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 32_S9_L001_R2_001	39294.0	145221.0
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 39bd-b_S1_L001_R1_001	70077.0	167735.0
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 39bd-b_S1_L001_R2_001	73730.0	164082.0
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 42bd-b_S3_L001_R1_001	82758.0	345831.0
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 42bd-b_S3_L001_R2_001	80873.0	347716.0
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 59-b_S14_L001_R1_001	97233.0	203726.0
+/ | home | alita555 | ALE_Finalproject_bioinf | QC | fastqc_results | 59-b_S14_L001_R2_001	94671.0	206288.0
